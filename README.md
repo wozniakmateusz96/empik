@@ -1,3 +1,3 @@
-How to run:
-docker-compose -f src/main/docker/postgres.yml up
+How to run: <br />
+docker-compose -f src/main/docker/postgres.yml up <br />
 ./gradlew bootRun
